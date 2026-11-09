@@ -1,0 +1,5 @@
+:HL["/simulador-master/_next/static/chunks/3ku2w_si-ohs0.css","style"]
+:HL["/simulador-master/_next/static/media/53897e768d329f66-s.p.3t6q91iet4nsy.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/simulador-master/_next/static/media/d8aeca813a9ab546-s.p.18rizl4rsrl42.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+1:[["children",{"s":"__PAGE__","h":160}]]
+0:{"b":"rCwuYZMvoCnAoRuEcXnfq","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
